@@ -1,0 +1,3 @@
+To compile the program, run make.
+
+The program takes the input file as an argument. To run it with forward checking, run it with -fc. To run it with MRV, run it with -mrv.
